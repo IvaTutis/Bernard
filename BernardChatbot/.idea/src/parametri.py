@@ -36,4 +36,4 @@ USER_NAME="You:"
 CHATBOT_NAME= "Bernard:"
 
 #Path do pretreniranog modela
-PATH_TO_MODEL="NatreniraniModeli/model.h5"
+PATH_TO_MODEL="NatreniraniModeli/model3.h5"
